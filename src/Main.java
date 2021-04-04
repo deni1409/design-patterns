@@ -2,7 +2,7 @@ import exercise.Exercise;
 import factory.ExerciseFactory;
 import observer.Observer;
 
-public class ObserverMain {
+public class Main {
 
 	public static void main(String[] args) {
 		ExerciseFactory exerciseFactory = new ExerciseFactory();
